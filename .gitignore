@@ -1,0 +1,22 @@
+# Binarios y ejecutables
+*.exe
+*.dll
+*.bin
+*.obj
+*.lib
+*.exp
+
+# Carpetas de compilación
+obj/
+build/
+dist/
+
+# Archivos temporales
+*.log
+*.tmp
+*.pdb
+*.ilk
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
