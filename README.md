@@ -16,7 +16,7 @@ Universidad Peruana de Ciencias Aplicadas (UPC)
 
 \- Sebastian Victor, Reynoso Roman (U20251F532)
 
-\- Custodio Chavarría Gianpul Jesus
+\- Fernando Quispe Cutipa (U20251F769)
 
 
 
