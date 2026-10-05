@@ -1,6 +1,9 @@
 @echo off
 setlocal
 
+REM Crear carpeta obj si no existe
+if not exist obj mkdir obj
+
 echo ============================================
 echo  [1/3] Compilando keylogger.dll (x64)...
 echo ============================================
