@@ -39,8 +39,8 @@
     <td><code>U20251F532</code></td>
   </tr>
   <tr>
-    <td>Custodio Chavarría Gianpul Jesus</td>
-    <td><code>—</code></td>
+    <td>Fernando, Quispe Cutipa</td>
+    <td><code>U20251F769</code></td>
   </tr>
 </table>
 
